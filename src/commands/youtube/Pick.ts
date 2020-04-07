@@ -1,5 +1,5 @@
 import { CommandRequest, ArgDef, ArgType, PipeNext } from 'quro'
-import { YouTubeCommand } from './YoutubeCommand'
+import { YouTubeCommand } from './YouTubeCommand'
 
 export class YoutubePickCommand extends YouTubeCommand {
   name = 'youtube:pick'
