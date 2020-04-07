@@ -2,6 +2,9 @@
   "name": "cds-bot",
   "description": "Discord bot for CoderDojo Shizuoka",
   "version": "0.0.0",
+  "engines": {
+    "node": "13.5.x"
+  },
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
     "axios": "^0.19.2",
