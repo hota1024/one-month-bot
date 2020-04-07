@@ -1,3 +1,3 @@
-# cds-bot
+# one-month-bot
 
-Discord bot for CoderDojo Shizuoka
+Discord bot for OneMonthServer.
