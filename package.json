@@ -40,7 +40,7 @@
   "repository": "coderdojo-shizuoka/cds-bot",
   "scripts": {
     "build": "tsc",
-    "start": "tsc && node lib/src/index.js",
+    "start": "node lib/src/index.js",
     "watch": "nodemon"
   }
 }
