@@ -6,7 +6,7 @@
     "node": "13.5.x"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.1.0",
